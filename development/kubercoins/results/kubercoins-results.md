@@ -5,13 +5,7 @@ Participantes
 - Jaquelina Loredo Hipolito 
 
 Actividades
-- development/kubercoins/kubercoins-deploy.md
-Instrucciones: dk-base-m3-ri/development/kubercoins/kubercoins-deploy.md at main · naylalex/dk-base-m3-ri (github.com)
-- Gist: Deploying a sample application (github.com)
-- kubercoins-liveness-probe-integrate.md
-Instrucciones: dk-base-m3-ri/development/kubercoins/kubercoins-liveness-probe-integrate.md at main · naylalex/dk-base-m3-ri (github.com)
-- Gist
-Healthchecks (github.com)
+- kubercoins-deploy.md
 
 Comandos
 - $ kubectl get svc webui -o wide
